@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Exp-2 Hospital-Management-System
 # AIM:
 To develop the Hospital Management System using Star UML.
 
