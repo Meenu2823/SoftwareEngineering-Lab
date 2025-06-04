@@ -1,5 +1,4 @@
 # Student-Registration-System
-
 # AIM:
 To develop the Course Reservation and Exam Registration System using Star UML
 
