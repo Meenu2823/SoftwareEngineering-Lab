@@ -1,5 +1,4 @@
 # Online-Examination-System
-
 # AIM:
 To develop the Online Examination System using Star UML.
 
