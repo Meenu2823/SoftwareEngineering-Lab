@@ -1,6 +1,5 @@
 # Library-Management-System
 
-
 # AIM:
 To develop the Library Management System using Star UML
 
